@@ -1,4 +1,4 @@
-<!-- # Turborepo starter
+# Turborepo starter
 
 This is an official starter Turborepo.
 
@@ -78,8 +78,4 @@ Learn more about the power of Turborepo:
 - [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
-- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference) -->
-
-#PayZer-Next 
-
-An Online Payment Gateway .
+- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
